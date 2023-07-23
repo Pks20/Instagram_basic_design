@@ -10,4 +10,4 @@
  
 
 * # Project Summary
-   In this project we created Instagram basic design project and used mysql database to store the data. We create different type of mapping .
+   In this project we created Instagram basic design project and used mysql database to store the data. We create different type of mapping. It follows MVC-architecture. In this application , if user wants to create his account on Instagram then he has to be sign up and Only sign up user can able to sign in. .
